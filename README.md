@@ -1,4 +1,4 @@
-                                                  👋 **Hi, I’m Riccardo Nasatti and I'm a student**
+                                                  👋Hi, I’m Riccardo Nasatti and I'm a student
 ![Logo](https://atletanews.sport/wp-content/uploads/2022/01/bobotv.png)
 \
 \
