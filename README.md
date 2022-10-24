@@ -5,10 +5,7 @@
 <h3 align="center">I'm a student of ITIS Paleocapa:school: and I'm studing Informatics:computer:</h3>
 
 
-
-- 🔭 I’m currently working on [Ricerca operativa](https://github.com/Nasatti/Ricerca_operativa)
-
-- 📝 visit my site [www.riccardonasatti.it](http://167.235.129.248/)
+- 📝 Visit my site [www.riccardonasatti.it](http://riccardonasatti.com/)
 
 - 📫 How to reach me **riccardonasatti@gmail.com**
 
