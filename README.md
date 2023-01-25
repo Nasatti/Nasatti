@@ -5,7 +5,7 @@
 <h3 align="center">I'm a student of ITIS Paleocapa:school: and I'm studing IT:computer:</h3>
 
 
-- 📝 Visit my site [www.riccardonasatti.it](http://riccardonasatti.com/)
+- 📝 Visit my site [www.riccardonasatti.it](http://nasatti.altervista.org/)
 
 - 📫 How to reach me **riccardonasatti@gmail.com**
 
