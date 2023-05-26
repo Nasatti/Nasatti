@@ -11,6 +11,8 @@
 
 - 🚧 I'm working on <a href="https://github.com/Nasatti/Sneak-Peek">Sneak Peek</a>👟
 
+- :open_book: I'm learning React Native <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="15">
+
 ## <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
@@ -19,6 +21,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
   <a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
+<a href="https://www.mongodb.com/cloud/atlas/lp/try4"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasatti&show_icons=true&locale=en&layout=compact" alt="nasatti" /></p>
 
