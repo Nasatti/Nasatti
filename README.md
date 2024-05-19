@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **riccardonasatti@gmail.com**
 
-- 🚧 I'm working on <a href="https://github.com/Nasatti/Sneak-Peek">Sneak Peek</a>👟
+- 🚧 I'm working on <a href="https://github.com/rzambelli04/Progetto_codex">Codex</a>:🃏
 
 - :open_book: I'm learning React Native <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="15">
 
@@ -22,6 +22,7 @@
 <a href="https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
   <a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
 <a href="https://www.mongodb.com/cloud/atlas/lp/try4"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40"></a>
+<a href="https://it.wikipedia.org/wiki/Java_(linguaggio_di_programmazione)"><img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" height="40"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasatti&show_icons=true&locale=en&layout=compact" alt="nasatti" /></p>
 
@@ -31,5 +32,5 @@
 <a href="mailto:riccardonasatti@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 <a href="https://instagram.com/riccardo.nasatti"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" /></a>
 <a href="https://t.me/Nasatti"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="40"></a>
-<a href="https://www.linkedin.com/in/riccardo-nasatti/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40"></a>
+<a href="https://www.linkedin.com/in/riccardo-nasatti/"><img src="[https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png](https://it.wikipedia.org/wiki/File:Java_Logo.svg)" height="40"></a>
 </p>
