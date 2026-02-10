@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **riccardonasatti@gmail.com**
 
-- 🚧 I'm working on <a href="[https://github.com/Nasatti/Sistemi-Operativi](https://github.com/GiacomoPrevitali/PizzApp)">PizzApp</a> 💻
+- 🚧 I'm working on <a href="https://github.com/GiacomoPrevitali/PizzApp">PizzApp</a> 💻
 
 - :open_book: I'm learning React Native <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="15">
 
