@@ -9,9 +9,7 @@
 
 - 📫 How to reach me **riccardonasatti@gmail.com**
 
-- 🚧 I'm working on <a href="https://github.com/GiacomoPrevitali/PizzApp">PizzApp</a> 💻
-
-- :open_book: I'm learning React Native <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="15">
+<!-- - 🚧 I'm working on <a href="https://github.com/GiacomoPrevitali/PizzApp">PizzApp</a> 💻 -->
 
 ## <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
