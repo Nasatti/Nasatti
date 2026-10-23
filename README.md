@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasatti&label=Profile%20views&color=0e75b6&style=flat" alt="nasatti" /> </p>
 
 <h1 align="center">Hi 👋, I'm Riccardo Nasatti</h1>
-<h3 align="center">I'm a student of Unibg 🏫 and I'm studing IT engineering💻</h3>
+<h3 align="center">I'm a student of PliMi 🏫 and I'm studing IT engineering < cybersecurity >💻</h3>
 
 
 - 📝 Visit my site [nasatti.altervista.org](http://nasatti.altervista.org/)
